@@ -1,6 +1,6 @@
-# movie_app_sertifikasi
+# roti_app_sertifikasi
 
-Belajar Membuat movie app sertifikasi ya cuy
+Sertifikasi Junior Mobile Programming
 
 ## Getting Started
 
